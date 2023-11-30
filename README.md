@@ -14,12 +14,12 @@ If you want to contribute to my projects, feel free to do so.
 | **Programming Languages** | ![PL](https://skillicons.dev/icons?i=html,css,js,php,python) |
 | **Adobe** | ![Adobe](https://skillicons.dev/icons?i=ps,ai,xd) |
 
-## GitHub Stats
+## :chart_with_upwards_trend: My GitHub Stats
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StratenyNinja)
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=StratenyNinja&layout=compact)
 
-### My Trophies
+### :trophy: My GitHub Trophies
 ![image](https://github-profile-trophy.vercel.app/?username=StratenyNinja&theme=dark&no-frame=true&margin-w=10)
 
 <!--
